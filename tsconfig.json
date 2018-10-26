@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2016",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "js/ClickerBot.js",
+        "sourceMap": true
+    },
+    "include": [
+        "ts/**/*"
+    ]
+}
